@@ -1,0 +1,82 @@
+body
+{
+    background-image:url(../test/dark.jpg);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1,p
+{
+    text-align: center;
+}
+h1,h2
+{
+    font: 1em sans-serif;
+}
+h1
+{
+ font-size: 40px;
+ margin-top: 0;
+ margin-bottom: 2px;
+}
+h2
+{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 30px;
+    margin-bottom: 3px;
+}
+
+.established
+{
+    font-style: italic;
+}
+
+.bookingmenu
+{
+    width:80%;
+    background-color:grey;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    max-width: 550px;
+}
+.item p
+{
+    display: inline-block;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-size: 15px;
+}
+img
+{
+    display: block;
+ margin-left:auto;
+ margin-right: auto;
+ margin-bottom: 4px;
+}
+.luxury,.veh_type,.heading
+{
+text-align: left;
+ width:75%;
+}
+.price,.cost
+{
+    text-align:right;
+    width: 25%;
+}
+.cost,.heading
+{
+    text-decoration-line: underline;
+}
+hr
+{
+    height:2.5px ;
+    background-color: black; 
+   border-color: black;
+}
+.footer p
+{
+    text-align: center;
+}
